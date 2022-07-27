@@ -1,0 +1,482 @@
+Exporter version: 2.93.5, Blender version: 3.2.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\monst\Desktop\Baking tests\Babylon tests\Babylon\
+			WARNING: unsupported node type(ShaderNodeTexSky) will trigger baking
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of node:  Group01
+	processing begun of mesh:  Building_006.001
+		processing begun of material:  Blue_AO
+		processing begun of material:  Group01_lightmap
+			processing texture baked_2b515c_pro_6841_exp
+				texture type:  diffuseTexture, mapped using: "SimpleBake"
+			processing texture Group01_Bake1_PBR_Lightmap
+				texture type:  diffuseTexture, mapped using: "SimpleBake"
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  46
+		num normals        :  46
+		num tangents       :  184
+		num uvs            :  92
+		num uvs2           :  92
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  Building_007.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+			processing texture baked_4c564d_plaster
+				texture type:  diffuseTexture, mapped using: "facade"
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#1
+		Custom split normals with tangents being used
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  140
+		num uvs            :  70
+		num uvs2           :  70
+		num colors         :  0
+		num triangles      :  18
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Building_39644.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#2
+		Custom split normals with tangents being used
+		num positions      :  51
+		num normals        :  51
+		num tangents       :  204
+		num uvs            :  102
+		num uvs2           :  102
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  Building_39645.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#3
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39648.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#4
+		Custom split normals with tangents being used
+		num positions      :  55
+		num normals        :  55
+		num tangents       :  220
+		num uvs            :  110
+		num uvs2           :  110
+		num colors         :  0
+		num triangles      :  28
+		WARNING: # of 0 area faces found:  12
+	processing begun of mesh:  Building_39652.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#5
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39653.001
+		processing begun of material:  Green_AO
+		processing begun of material:  Group01_lightmap
+			processing texture baked_6e615b_concrete
+				texture type:  diffuseTexture, mapped using: "facade"
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#6
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39656.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#7
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39658.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#8
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39662.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#9
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39665.001
+		processing begun of material:  Green_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  Green_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#10
+		Custom split normals with tangents being used
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  140
+		num uvs            :  70
+		num uvs2           :  70
+		num colors         :  0
+		num triangles      :  18
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Building_39667.001
+		processing begun of material:  Brown_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#11
+		Custom split normals with tangents being used
+		num positions      :  89
+		num normals        :  89
+		num tangents       :  356
+		num uvs            :  178
+		num uvs2           :  178
+		num colors         :  0
+		num triangles      :  44
+		WARNING: # of 0 area faces found:  16
+	processing begun of mesh:  Building_39669.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#12
+		Custom split normals with tangents being used
+		num positions      :  23
+		num normals        :  23
+		num tangents       :  92
+		num uvs            :  46
+		num uvs2           :  46
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  Building_39671.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#13
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39672.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#14
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39674.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group01_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group01_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#15
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of node:  Group02
+	processing begun of mesh:  Building_39676.001
+		processing begun of material:  Green_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Green_AO
+			processing texture Group02_Bake1_PBR_Lightmap
+				texture type:  diffuseTexture, mapped using: "SimpleBake"
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#16
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39679.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#17
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39691.001
+		processing begun of material:  Red_AO
+		processing begun of material:  Group02_lightmap
+			processing texture baked_3d3332_brick
+				texture type:  diffuseTexture, mapped using: "SimpleBake"
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#18
+		Custom split normals with tangents being used
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  140
+		num uvs            :  70
+		num uvs2           :  70
+		num colors         :  0
+		num triangles      :  18
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Building_39700.001
+		processing begun of material:  Brown_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Brown_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#19
+		Custom split normals with tangents being used
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  120
+		num uvs            :  60
+		num uvs2           :  60
+		num colors         :  0
+		num triangles      :  13
+	processing begun of mesh:  Building_39702.001
+		processing begun of material:  Brown_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Brown_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#20
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39704.001
+		processing begun of material:  Brown_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Brown_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#21
+		Custom split normals with tangents being used
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  136
+		num uvs            :  68
+		num uvs2           :  68
+		num colors         :  0
+		num triangles      :  14
+	processing begun of mesh:  Building_39705.001
+		processing begun of material:  Blue_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Blue_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#22
+		Custom split normals with tangents being used
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  140
+		num uvs            :  70
+		num uvs2           :  70
+		num colors         :  0
+		num triangles      :  18
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Building_39708.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#23
+		Custom split normals with tangents being used
+		num positions      :  23
+		num normals        :  23
+		num tangents       :  92
+		num uvs            :  46
+		num uvs2           :  46
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  Building_39710.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#24
+		Custom split normals with tangents being used
+		num positions      :  27
+		num normals        :  27
+		num tangents       :  108
+		num uvs            :  54
+		num uvs2           :  54
+		num colors         :  0
+		num triangles      :  11
+	processing begun of mesh:  Building_39712.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#25
+		Custom split normals with tangents being used
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  120
+		num uvs            :  60
+		num uvs2           :  60
+		num colors         :  0
+		num triangles      :  13
+	processing begun of mesh:  Building_41202.001
+		processing begun of material:  Blue_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Blue_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#26
+		Custom split normals with tangents being used
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  64
+		num uvs            :  32
+		num uvs2           :  32
+		num colors         :  0
+		num triangles      :  7
+	processing begun of mesh:  Chatham Towers.001
+		processing begun of material:  White_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#27
+		Custom split normals with tangents being used
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  140
+		num uvs            :  70
+		num uvs2           :  70
+		num colors         :  0
+		num triangles      :  18
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  New York City Hall.001
+		processing begun of material:  Red_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  Red_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#28
+		Custom split normals with tangents being used
+		num positions      :  1264
+		num normals        :  1264
+		num tangents       :  5056
+		num uvs            :  2528
+		num uvs2           :  2528
+		num colors         :  0
+		num triangles      :  560
+	processing begun of mesh:  Plane
+		processing begun of material:  White_AO
+		processing begun of material:  Group02_lightmap
+		registered as also a user of material:  White_AO
+		registered as also a user of material:  Group02_lightmap
+		processing begun of multimaterial:  Babylon_Tests.Multimaterial#29
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  8
+		num colors         :  0
+		num triangles      :  2
+========= Writing of JSON file started =========
+	writing mesh:  Building_006.001
+	writing mesh:  Building_007.001
+	writing mesh:  Building_39644.001
+	writing mesh:  Building_39645.001
+	writing mesh:  Building_39648.001
+	writing mesh:  Building_39652.001
+	writing mesh:  Building_39653.001
+	writing mesh:  Building_39656.001
+	writing mesh:  Building_39658.001
+	writing mesh:  Building_39662.001
+	writing mesh:  Building_39665.001
+	writing mesh:  Building_39667.001
+	writing mesh:  Building_39669.001
+	writing mesh:  Building_39671.001
+	writing mesh:  Building_39672.001
+	writing mesh:  Building_39674.001
+	writing mesh:  Building_39676.001
+	writing mesh:  Building_39679.001
+	writing mesh:  Building_39691.001
+	writing mesh:  Building_39700.001
+	writing mesh:  Building_39702.001
+	writing mesh:  Building_39704.001
+	writing mesh:  Building_39705.001
+	writing mesh:  Building_39708.001
+	writing mesh:  Building_39710.001
+	writing mesh:  Building_39712.001
+	writing mesh:  Building_41202.001
+	writing mesh:  Chatham Towers.001
+	writing mesh:  New York City Hall.001
+	writing mesh:  Plane
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.2231 secs
