@@ -1,0 +1,74 @@
+{
+    "preset_name": "Zen-Garden-Day",
+    "repo_path": "https://raw.githubusercontent.com/MeetKai-David-Arcia/Babylon-Playground-Assets/main/",
+    "scene_asset": {
+      "folder_path": "Zen-Garden-Scenes/Zen-Garden-Meetkai-Demo-Simplified-PBR-Gamma/Models/",
+      "file_name": "zen-garden.babylon"
+    },
+    "audio": {
+      "enabled": true,
+      "folder_path": "Audio/",
+      "track_files": ["Birds-SFX-1.mp3", "Oboro-_Day_.mp3", "Tree-Wind-SFX.mp3", "Water-Pond-SFX.mp3"],
+      "track_volumes": [0.05, 0.05, 0.1, 0.1]
+    },
+    "skybox": {
+      "folder_path": "Skyboxes/",
+      "texture_asset": "Skybox4TestEnv/skybox",
+      "reflection_level": 0.8,
+      "rotation_offset": 0,
+      "size": 1000,
+      "ambient_color": [0, 0, 0],
+      "emissive_color": [0, 0, 0]
+    },
+    "camera": {
+      "strafe_speed_multiplier": 0.1,
+      "inverse_rotation_multiplier": 0.1,
+      "initial_position": [5, 4, 40],
+      "initial_target": [11, 4, 50],
+      "far_plane": 2000,
+      "fov": 0.5
+    },
+    "light": {
+        "enabled": false,
+        "direction": [1, 1, 0],
+        "intensity": 1
+    },
+    "fog": {
+      "color": [218, 253, 255],
+      "mode": 2,
+      "density": 0.00125,
+      "mesh_apply_fog": true
+    },
+    "global_material_properties": {
+      "ambient_color": [128, 128, 128],
+      "emissive_color": [0, 0, 0],
+      "diffuse_color": [256, 256, 256]
+    },
+    "bloom": {
+      "enabled": true,
+      "scale": 1,
+      "weight": 0.25,
+      "kernel": 128,
+      "threshold": 0.4
+    },
+    "postprocess": {
+      "scene_ambient_color": [256, 256, 256],
+      "scene_clear_color": [55, 91, 208],
+      "scene_contrast": 1.7,
+      "scene_exposure": 1.5,
+      "tone_mapping_enabled": true,
+      "tone_mapping_type": 0,
+      "samples": 1,
+      "FXAA_enabled": false,
+      "grain_enabled": false,
+      "chromatic_aberration_enabled": false,
+      "ca_aberration_amount": 1,
+      "ca_radial_intensity": 1,
+      "sharpen_enabled": false
+    },
+    "env": {
+      "enabled": true,
+      "texture_path": "ENV-Files/environmentTexture.env",
+      "IBL_intensity": 0.1
+    }
+  }
