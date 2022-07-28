@@ -3,7 +3,8 @@
     "repo_path": "https://raw.githubusercontent.com/MeetKai-David-Arcia/Babylon-Playground-Assets/main/",
     "scene_asset": {
       "folder_path": "Zen-Garden-Scenes/Zen-Garden-Meetkai-Demo-Simplified-PBR-Gamma/Models/",
-      "file_name": "zen-garden.babylon"
+      "file_name": "zen-garden.babylon",
+      "lightmap_path": ""
     },
     "audio": {
       "enabled": true,
