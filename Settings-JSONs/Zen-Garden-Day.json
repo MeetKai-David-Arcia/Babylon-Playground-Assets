@@ -14,7 +14,7 @@
     "skybox": {
       "folder_path": "Skyboxes/",
       "texture_asset": "Skybox4TestEnv/skybox",
-      "relfection_level": 0.8,
+      "reflection_level": 0.8,
       "rotation_offset": 0,
       "size": 1000,
       "ambient_color": [0, 0, 0],
