@@ -18,8 +18,8 @@
       "reflection_level": 0.17,
       "rotation_offset": 0,
       "size": 1000,
-      "ambient_color": [199, 79, 0],
-      "emissive_color": [111, 92, 52]
+      "ambient_color": [88, 35, 0],
+      "emissive_color": [101, 43, 22]
     },
     "camera": {
       "strafe_speed_multiplier": 0.1,
@@ -37,7 +37,7 @@
     "fog": {
       "color": [255, 174, 135],
       "mode": 2,
-      "density": 0.0033,
+      "density": 0.002,
       "mesh_apply_fog": true
     },
     "global_material_properties": {
@@ -53,10 +53,10 @@
       "threshold": 0.4
     },
     "postprocess": {
-      "scene_ambient_color": [255, 174, 135],
+      "scene_ambient_color": [255, 194, 166],
       "scene_clear_color": [55, 91, 208],
-      "scene_contrast": 2,
-      "scene_exposure": 1.8,
+      "scene_contrast": 1.8,
+      "scene_exposure": 1.5,
       "tone_mapping_enabled": true,
       "tone_mapping_type": 0,
       "samples": 8,
