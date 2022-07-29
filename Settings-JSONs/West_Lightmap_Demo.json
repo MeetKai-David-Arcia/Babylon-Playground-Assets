@@ -7,7 +7,7 @@
       "lightmap_path": "Lightmaps/"
     },
     "audio": {
-      "enabled": true,
+      "enabled": false,
       "folder_path": "Audio/",
       "track_files": ["Birds-SFX-1.mp3", "Oboro-_Day_.mp3", "Tree-Wind-SFX.mp3", "Water-Pond-SFX.mp3"],
       "track_volumes": [0.05, 0.05, 0.1, 0.1]
