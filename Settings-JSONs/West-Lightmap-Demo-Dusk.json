@@ -24,8 +24,8 @@
     "camera": {
       "strafe_speed_multiplier": 0.1,
       "inverse_rotation_multiplier": 0.1,
-      "initial_position": [5, 4, 40],
-      "initial_target": [11, 4, 50],
+      "initial_position": [22, 6, 37],
+      "initial_target": [16, 5, 27],
       "far_plane": 2000,
       "fov": 0.5
     },
