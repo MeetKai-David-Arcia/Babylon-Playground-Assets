@@ -10,7 +10,7 @@
       "enabled": true,
       "folder_path": "Audio/",
       "track_files": ["wild-western-music-tumbleweed-town.mp3", "wind-ambience-14720.mp3", "semi-desert-insects-ravens-birds-quiet-with-bad-mic-noise-badlands-ab-190818-7028.mp3"],
-      "track_volumes": [0, 0.1, 0.1]
+      "track_volumes": [0.4, 0.1, 0.1]
     },
     "skybox": {
       "folder_path": "Skyboxes/",
