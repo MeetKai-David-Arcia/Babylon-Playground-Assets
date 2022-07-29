@@ -70,6 +70,6 @@
     "env": {
       "enabled": true,
       "texture_path": "ENV-Files/environmentTexture.env",
-      "IBL_intensity": 0.1
+      "IBL_intensity": 0.26
     }
   }
