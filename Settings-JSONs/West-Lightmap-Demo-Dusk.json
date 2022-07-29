@@ -2,9 +2,9 @@
     "preset_name": "Western-Lightmap-Demo-Dusk",
     "repo_path": "https://raw.githubusercontent.com/MeetKai-David-Arcia/Babylon-Playground-Assets/main/",
     "scene_asset": {
-      "folder_path": "West_Lightmap_Demo/",
-      "file_name": "West_demo_agg_LM_ID.glb",
-      "lightmap_path": "lightmaps/"
+      "folder_path": "West-Lightmap-Demo/",
+      "file_name": "West_demo_aggr_ID.glb",
+      "lightmap_path": "Lightmaps/"
     },
     "audio": {
       "enabled": false,
