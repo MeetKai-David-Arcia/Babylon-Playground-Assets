@@ -35,7 +35,7 @@
         "intensity": 1
     },
     "fog": {
-      "color": [255, 174, 108],
+      "color": [255, 174, 135],
       "mode": 2,
       "density": 0.0033,
       "mesh_apply_fog": true
@@ -53,10 +53,10 @@
       "threshold": 0.4
     },
     "postprocess": {
-      "scene_ambient_color": [162, 75, 33],
+      "scene_ambient_color": [255, 174, 135],
       "scene_clear_color": [55, 91, 208],
-      "scene_contrast": 1.9,
-      "scene_exposure": 1.3,
+      "scene_contrast": 2,
+      "scene_exposure": 1.8,
       "tone_mapping_enabled": true,
       "tone_mapping_type": 0,
       "samples": 1,
