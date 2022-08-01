@@ -61,7 +61,7 @@
       "tone_mapping_type": 0,
       "samples": 8,
       "FXAA_enabled": true,
-      "grain_enabled": true,
+      "grain_enabled": false,
       "chromatic_aberration_enabled": true,
       "ca_aberration_amount": 1,
       "ca_radial_intensity": 1,
